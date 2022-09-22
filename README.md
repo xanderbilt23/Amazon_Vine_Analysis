@@ -20,11 +20,11 @@ There are 48 Vine 5 star reviews and there are 1,5663 non_Vine 5 star reviews.
 
 Paid Summary
 
-![Paid_Summary]()
+![Paid_Summary](https://github.com/xanderbilt23/Amazon_Vine_Analysis/blob/main/images/paid_summary%20.png)
 
 Unpaid Summary
 
-![Unpaid_Summary]()
+![Unpaid_Summary](https://github.com/xanderbilt23/Amazon_Vine_Analysis/blob/main/images/unpaid_summary%20.png)
 
 ## Summary
 
